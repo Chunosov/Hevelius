@@ -1,0 +1,20 @@
+Yale Bright Star Catalog
+http://tdc-www.harvard.edu/catalogs/bsc5.html
+	bsc5.dat (http://tdc-www.harvard.edu/catalogs/bsc5.dat.gz)
+	bsc5.notes (http://tdc-www.harvard.edu/catalogs/bsc5.notes.gz)
+	bsc5.readme (http://tdc-www.harvard.edu/catalogs/bsc5.readme)
+
+Pronunciation of Constellation Names
+http://www.skyandtelescope.com/letsgo/helpdesk/Constellation_Names.html
+
+The Constellations, Charts and tables
+IAU International Astronomical Union 
+http://www.iau.org/public/themes/constellations/
+	constellation_bounds.dat
+
+Constellation Boundary Data
+http://cdsarc.u-strasbg.fr/viz-bin/Cat?VI/49
+	VI_49.tar.gz
+		bound_18.dat
+		bound_20.dat
+		constbnd.dat

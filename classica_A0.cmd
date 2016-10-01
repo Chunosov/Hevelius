@@ -1,0 +1,1 @@
+c:\Python33\python.exe classica_A0.py

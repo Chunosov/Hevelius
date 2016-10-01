@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 "
+   sodipodi:docname="planets.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.56865625"
+     inkscape:cx="964.80712"
+     inkscape:cy="552.55478"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:3.48623443;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2985"
+       sodipodi:cx="196.42857"
+       sodipodi:cy="147.36218"
+       sodipodi:rx="72.14286"
+       sodipodi:ry="67.14286"
+       d="m 268.57143,147.36218 a 72.14286,67.14286 0 1 1 -144.28572,0 72.14286,67.14286 0 1 1 144.28572,0 z"
+       transform="matrix(0.27688105,0,0,0.29716218,8.927362,225.74145)" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+       x="98.73381"
+       y="265.58002"
+       id="text3755"
+       sodipodi:linespacing="125%"
+       transform="scale(1.000568,0.99943232)"><tspan
+         sodipodi:role="line"
+         id="tspan3757"
+         x="98.73381"
+         y="265.58002"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'">Земля</tspan><tspan
+         sodipodi:role="line"
+         x="98.73381"
+         y="283.08002"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+         dy="0 0 0 0 0 0 0 0 0 0 0.84816122 -0.84816122"
+         id="tspan3767"><tspan
+           dy="0 0 0 0 0 0 0 0 0"
+           id="tspan3802"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'">D=12742km</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="98.73381"
+         y="300.58002"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0.84816122 -0.84816122"
+         id="tspan3771" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+       x="2.0799732"
+       y="-13.44141"
+       id="text3773"
+       sodipodi:linespacing="125%"
+       transform="scale(1.000568,0.99943232)"><tspan
+         sodipodi:role="line"
+         id="tspan3775"
+         x="2.0799732"
+         y="-13.44141">100 km/px</tspan></text>
+    <path
+       transform="matrix(0.07465816,0,0,0.08012676,48.649716,300.55731)"
+       d="m 268.57143,147.36218 a 72.14286,67.14286 0 1 1 -144.28572,0 72.14286,67.14286 0 1 1 144.28572,0 z"
+       sodipodi:ry="67.14286"
+       sodipodi:rx="72.14286"
+       sodipodi:cy="147.36218"
+       sodipodi:cx="196.42857"
+       id="path3777"
+       style="fill:none;stroke:#000000;stroke-width:12.92922688;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="arc" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3779"
+       y="308.93298"
+       x="98.867577"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+       xml:space="preserve"
+       transform="scale(1.000568,0.99943232)"><tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+         y="308.93298"
+         x="98.867577"
+         id="tspan3781"
+         sodipodi:role="line">Луна</tspan><tspan
+         id="tspan3785"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0.84816122 -0.84816122"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+         y="323.93298"
+         x="98.867577"
+         sodipodi:role="line"><tspan
+           dy="0 0 0 0 0 0 0 0 0 0 0"
+           id="tspan3795"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'">D = 3474 km</tspan></tspan><tspan
+         id="tspan3789"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0.84816122 -0.84816122"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+         y="338.93298"
+         x="98.867577"
+         sodipodi:role="line" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3805"
+       y="55.579266"
+       x="98.740623"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+       xml:space="preserve"
+       transform="scale(1.000568,0.99943232)"><tspan
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+         y="55.579266"
+         x="98.740623"
+         id="tspan3807"
+         sodipodi:role="line">Меркурий</tspan><tspan
+         id="tspan3809"
+         dy="0 0 0 0 0 0 0 0 0 0.84816122 -0.84816122"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+         y="73.079269"
+         x="98.740623"
+         sodipodi:role="line"><tspan
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+           id="tspan3811"
+           dy="0 0 0 0 0 0 0 0">D=4873km</tspan></tspan><tspan
+         id="tspan3813"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0.84816122 -0.84816122"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+         y="90.579269"
+         x="98.740623"
+         sodipodi:role="line" /></text>
+    <path
+       transform="matrix(0.10539976,0,0,0.11312014,42.611187,43.069551)"
+       d="m 268.57143,147.36218 a 72.14286,67.14286 0 1 1 -144.28572,0 72.14286,67.14286 0 1 1 144.28572,0 z"
+       sodipodi:ry="67.14286"
+       sodipodi:rx="72.14286"
+       sodipodi:cy="147.36218"
+       sodipodi:cx="196.42857"
+       id="path3815"
+       style="fill:none;stroke:#000000;stroke-width:9.15820217;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="arc" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+       x="98.740623"
+       y="157.07242"
+       id="text3817"
+       sodipodi:linespacing="125%"
+       transform="scale(1.000568,0.99943232)"><tspan
+         sodipodi:role="line"
+         id="tspan3819"
+         x="98.740623"
+         y="157.07242"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'">Венера</tspan><tspan
+         sodipodi:role="line"
+         x="98.740623"
+         y="174.57242"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+         dy="0 0 0 0 0 0 0 0 0 0 0.84816122 -0.84816122"
+         id="tspan3821"><tspan
+           dy="0 0 0 0 0 0 0 0 0"
+           id="tspan3823"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'">D=12104km</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="98.740623"
+         y="192.07242"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0.84816122 -0.84816122"
+         id="tspan3825" /></text>
+    <path
+       transform="matrix(0.26349939,0,0,0.28280034,11.555902,119.50407)"
+       d="m 268.57143,147.36218 a 72.14286,67.14286 0 1 1 -144.28572,0 72.14286,67.14286 0 1 1 144.28572,0 z"
+       sodipodi:ry="67.14286"
+       sodipodi:rx="72.14286"
+       sodipodi:cy="147.36218"
+       sodipodi:cx="196.42857"
+       id="path3827"
+       style="fill:none;stroke:#000000;stroke-width:3.66328096;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:6.56110001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3829"
+       sodipodi:cx="196.42857"
+       sodipodi:cy="147.36218"
+       sodipodi:rx="72.14286"
+       sodipodi:ry="67.14286"
+       d="m 268.57143,147.36218 a 72.14286,67.14286 0 1 1 -144.28572,0 72.14286,67.14286 0 1 1 144.28572,0 z"
+       transform="matrix(0.1471205,0,0,0.15789686,34.416042,368.9409)" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+       x="98.740623"
+       y="388.22073"
+       id="text3831"
+       sodipodi:linespacing="125%"
+       transform="scale(1.000568,0.99943232)"><tspan
+         sodipodi:role="line"
+         id="tspan3833"
+         x="98.740623"
+         y="388.22073"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'">Марс</tspan><tspan
+         sodipodi:role="line"
+         x="98.740623"
+         y="405.72073"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0.84816122 -0.84816122"
+         id="tspan3835"><tspan
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+           id="tspan3837"
+           dy="0 0 0 0 0 0 0 0 0 0 0">D = 6779 km</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="98.740623"
+         y="423.22073"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0.84816122 -0.84816122"
+         id="tspan3839" /></text>
+    <path
+       transform="matrix(3.1378387,0,0,3.1485104,-156.31394,-208.37474)"
+       d="m 268.57143,147.36218 a 72.14286,67.14286 0 1 1 -144.28572,0 72.14286,67.14286 0 1 1 144.28572,0 z"
+       sodipodi:ry="67.14286"
+       sodipodi:rx="72.14286"
+       sodipodi:cy="147.36218"
+       sodipodi:cx="196.42857"
+       id="path3841"
+       style="fill:none;stroke:#000000;stroke-width:0.3181501;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="arc" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3843"
+       y="241.48541"
+       x="459.69382"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+       xml:space="preserve"
+       transform="scale(1.000568,0.99943232)"><tspan
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+         y="241.48541"
+         x="459.69382"
+         id="tspan3845"
+         sodipodi:role="line">Юпитер</tspan><tspan
+         id="tspan3847"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.84816122 -0.84816122"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+         y="258.98541"
+         x="459.69382"
+         sodipodi:role="line"><tspan
+           dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+           id="tspan3849"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'">De = 142984 km</tspan></tspan><tspan
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.84816122 -0.84816122"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+         y="276.48541"
+         x="459.69382"
+         sodipodi:role="line"
+         id="tspan3853">Dp = 133708 km</tspan><tspan
+         id="tspan3851"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0.84816122 -0.84816122"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+         y="293.98541"
+         x="459.69382"
+         sodipodi:role="line" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+       x="371.74374"
+       y="672.31451"
+       id="text3855"
+       sodipodi:linespacing="125%"
+       transform="scale(1.000568,0.99943232)"><tspan
+         sodipodi:role="line"
+         id="tspan3857"
+         x="371.74374"
+         y="672.31451"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'">Сатурн</tspan><tspan
+         sodipodi:role="line"
+         x="371.74374"
+         y="689.81451"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.84816122 -0.84816122"
+         id="tspan3859"><tspan
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+           id="tspan3861"
+           dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0">De = 120536 km</tspan></tspan><tspan
+         id="tspan3863"
+         sodipodi:role="line"
+         x="371.74374"
+         y="707.31451"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.84816122 -0.84816122">Dp = 108728 km</tspan><tspan
+         sodipodi:role="line"
+         x="371.74374"
+         y="724.81451"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0.84816122 -0.84816122"
+         id="tspan3865" /></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#ff3790;stroke-width:0.38443533000000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3867"
+       sodipodi:cx="196.42857"
+       sodipodi:cy="147.36218"
+       sodipodi:rx="72.14286"
+       sodipodi:ry="67.14286"
+       d="m 268.57143,147.36218 a 72.14286,67.14286 0 1 1 -144.28572,0 72.14286,67.14286 0 1 1 144.28572,0 z"
+       transform="matrix(2.6437773,0,0,2.559343,-147.26616,309.03072)" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3869"
+       y="907.67474"
+       x="127.09137"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+       xml:space="preserve"
+       transform="scale(1.000568,0.99943232)"><tspan
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+         y="907.67474"
+         x="127.09137"
+         id="tspan3871"
+         sodipodi:role="line">Уран</tspan><tspan
+         id="tspan3873"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.84816122 -0.84816122"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+         y="925.17474"
+         x="127.09137"
+         sodipodi:role="line"><tspan
+           dy="0 0 0 0 0 0 0 0 0 0 0 0 0"
+           id="tspan3875"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'">De = 51118 km</tspan></tspan><tspan
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.84816122 -0.84816122"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+         y="942.67474"
+         x="127.09137"
+         sodipodi:role="line"
+         id="tspan3877">Dp = 49946 km</tspan><tspan
+         id="tspan3879"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0.84816122 -0.84816122"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+         y="960.17474"
+         x="127.09137"
+         sodipodi:role="line" /></text>
+    <path
+       transform="matrix(1.1198724,0,0,1.1736214,-92.719044,748.56624)"
+       d="m 268.57143,147.36218 a 72.14286,67.14286 0 1 1 -144.28572,0 72.14286,67.14286 0 1 1 144.28572,0 z"
+       sodipodi:ry="67.14286"
+       sodipodi:rx="72.14286"
+       sodipodi:cy="147.36218"
+       sodipodi:cx="196.42857"
+       id="path3881"
+       style="fill:none;stroke:#000000;stroke-width:0.87227148;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="arc" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+       x="609.31958"
+       y="909.57465"
+       id="text3883"
+       sodipodi:linespacing="125%"
+       transform="scale(1.000568,0.99943232)"><tspan
+         sodipodi:role="line"
+         id="tspan3885"
+         x="609.31958"
+         y="909.57465"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'">Нептун</tspan><tspan
+         sodipodi:role="line"
+         x="609.31958"
+         y="927.07465"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.84816122 -0.84816122"
+         id="tspan3887"><tspan
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+           id="tspan3889"
+           dy="0 0 0 0 0 0 0 0 0 0 0 0 0">De = 49528 km</tspan></tspan><tspan
+         id="tspan3891"
+         sodipodi:role="line"
+         x="609.31958"
+         y="944.57465"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.84816122 -0.84816122">Dp = 48682 km</tspan><tspan
+         sodipodi:role="line"
+         x="609.31958"
+         y="962.07465"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0.84816122 -0.84816122"
+         id="tspan3893" /></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:0.89715987;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3895"
+       sodipodi:cx="196.42857"
+       sodipodi:cy="147.36218"
+       sodipodi:rx="72.14286"
+       sodipodi:ry="67.14286"
+       d="m 268.57143,147.36218 a 72.14286,67.14286 0 1 1 -144.28572,0 72.14286,67.14286 0 1 1 144.28572,0 z"
+       transform="matrix(1.0847392,0,0,1.1453414,396.68427,754.63245)" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3897"
+       y="980.49561"
+       x="368.29391"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+       xml:space="preserve"
+       transform="scale(1.000568,0.99943232)"><tspan
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+         y="980.49561"
+         x="368.29391"
+         id="tspan3899"
+         sodipodi:role="line">Плутон</tspan><tspan
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.84816122 -0.84816122"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+         y="997.99561"
+         x="368.29391"
+         sodipodi:role="line"
+         id="tspan3905"><tspan
+           dy="0 0 0 0 0 0 0 0 0 0 0 0 0.84816122 -0.84816122"
+           id="tspan3909"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"><tspan
+             dy="0 0 0 0 0 0 0 0 0 0 0"
+             id="tspan3903"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'">D = 2368 km</tspan></tspan></tspan><tspan
+         id="tspan3907"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0.84816122 -0.84816122"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+         y="1015.4956"
+         x="368.29391"
+         sodipodi:role="line" /></text>
+    <path
+       transform="matrix(0.05050405,0,0,0.0542034,358.67499,950.14638)"
+       d="m 268.57143,147.36218 a 72.14286,67.14286 0 1 1 -144.28572,0 72.14286,67.14286 0 1 1 144.28572,0 z"
+       sodipodi:ry="67.14286"
+       sodipodi:rx="72.14286"
+       sodipodi:cy="147.36218"
+       sodipodi:cx="196.42857"
+       id="path3912"
+       style="fill:none;stroke:#000000;stroke-width:19.11277199;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="arc" />
+    <g
+       id="g3851">
+      <path
+         inkscape:connector-curvature="0"
+         id="ring_A"
+         d="m 2898.7409,-1614.3373 c -755.2494,0 -1367.5,612.2506 -1367.5,1367.49994 0,755.24938 612.2506,1367.50006 1367.5,1367.50006 755.2494,0 1367.5,-612.25068 1367.5,-1367.50006 0,-755.24934 -612.2506,-1367.50004 -1367.5,-1367.49994 z m -7.9063,146 c 2.6313,-0.017 5.2711,0 7.9063,0 674.6158,-10e-5 1221.5,546.88413 1221.5,1221.49994 0,674.61581 -546.8842,1221.50005 -1221.5,1221.50005 -674.6158,0 -1221.5,-546.88424 -1221.5,-1221.50005 0,-671.98059 542.6135,-1217.25054 1213.5937,-1221.49994 z"
+         style="fill:#000000;fill-opacity:0.12234042;stroke:#000000;stroke-width:1.00000012;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="ring_B"
+         d="m 2898.7409,-1421.3373 c -648.6585,10e-5 -1174.5,525.84157 -1174.5,1174.50002 0,648.65843 525.8415,1174.5 1174.5,1174.5 648.6584,0 1174.5,-525.84157 1174.5,-1174.5 0,-648.65845 -525.8416,-1174.50002 -1174.5,-1174.50002 z m 0,255 c 507.8258,0 919.5,411.67417 919.5,919.50002 0,507.82582 -411.6742,919.5 -919.5,919.5 -507.8259,0 -919.5,-411.67418 -919.5,-919.5 0,-507.82585 411.6741,-919.49992 919.5,-919.50002 z"
+         style="fill:#000000;fill-opacity:0.12234042;stroke:#000000;stroke-width:0.99999988;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="ring_C"
+         d="m 2898.7409,-1166.3373 c -507.8258,0 -919.5,411.67421 -919.5,919.49999 0,507.82578 411.6742,919.5 919.5,919.5 507.8258,0 919.5,-411.67422 919.5,-919.5 0,-507.82578 -411.6742,-919.49999 -919.5,-919.49999 z m 0,174.99999 c 411.176,0 744.5,333.32402 744.5,744.5 0,411.17599 -333.324,744.5 -744.5,744.5 -411.176,0 -744.5,-333.32401 -744.5,-744.5 0,-411.17598 333.324,-744.5 744.5,-744.5 z"
+         style="fill:#000000;fill-opacity:0.12234042;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="ring_D"
+         d="m 2898.7409,-991.33731 c -411.176,0 -744.5,333.32402 -744.5,744.5 0,411.17599 333.324,744.5 744.5,744.5 411.176,0 744.5,-333.32401 744.5,-744.5 0,-411.17598 -333.324,-744.5 -744.5,-744.5 z m 0,75 c 369.7546,0 669.5,299.74536 669.5,669.5 0,369.75464 -299.7454,669.5 -669.5,669.5 -369.7546,0 -669.5,-299.74536 -669.5,-669.5 0,-369.75464 299.7454,-669.5 669.5,-669.5 z"
+         style="fill:#000000;fill-opacity:0.12234042;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#000000;stroke-width:0.12173022;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3057"
+         sodipodi:cx="196.42857"
+         sodipodi:cy="147.36218"
+         sodipodi:rx="72.14286"
+         sodipodi:ry="67.14286"
+         d="m 268.57143,147.36218 a 72.14286,67.14286 0 1 1 -144.28572,0 72.14286,67.14286 0 1 1 144.28572,0 z"
+         transform="matrix(8.3445541,0,0,8.0872336,1259.632,-1438.5897)" />
+    </g>
+    <g
+       id="g3858"
+       transform="matrix(0.31730171,0,0,0.0681545,-547.72821,703.00417)">
+      <path
+         style="fill:#000000;fill-opacity:0.12234042;stroke:#000000;stroke-width:6.8001194;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 2898.7409,-1614.3373 c -755.2494,0 -1367.5,612.2506 -1367.5,1367.49994 0,755.24938 612.2506,1367.50006 1367.5,1367.50006 755.2494,0 1367.5,-612.25068 1367.5,-1367.50006 0,-755.24934 -612.2506,-1367.50004 -1367.5,-1367.49994 z m -7.9063,146 c 2.6313,-0.017 5.2711,0 7.9063,0 674.6158,-10e-5 1221.5,546.88413 1221.5,1221.49994 0,674.61581 -546.8842,1221.50005 -1221.5,1221.50005 -674.6158,0 -1221.5,-546.88424 -1221.5,-1221.50005 0,-671.98059 542.6135,-1217.25054 1213.5937,-1221.49994 z"
+         id="path3860"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#000000;fill-opacity:0.12234042;stroke:#000000;stroke-width:6.80011797;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 2898.7409,-1421.3373 c -648.6585,10e-5 -1174.5,525.84157 -1174.5,1174.50002 0,648.65843 525.8415,1174.5 1174.5,1174.5 648.6584,0 1174.5,-525.84157 1174.5,-1174.5 0,-648.65845 -525.8416,-1174.50002 -1174.5,-1174.50002 z m 0,255 c 507.8258,0 919.5,411.67417 919.5,919.50002 0,507.82582 -411.6742,919.5 -919.5,919.5 -507.8259,0 -919.5,-411.67418 -919.5,-919.5 0,-507.82585 411.6741,-919.49992 919.5,-919.50002 z"
+         id="path3862"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#000000;fill-opacity:0.12234042;stroke:#000000;stroke-width:6.80011892;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 2898.7409,-1166.3373 c -507.8258,0 -919.5,411.67421 -919.5,919.49999 0,507.82578 411.6742,919.5 919.5,919.5 507.8258,0 919.5,-411.67422 919.5,-919.5 0,-507.82578 -411.6742,-919.49999 -919.5,-919.49999 z m 0,174.99999 c 411.176,0 744.5,333.32402 744.5,744.5 0,411.17599 -333.324,744.5 -744.5,744.5 -411.176,0 -744.5,-333.32401 -744.5,-744.5 0,-411.17598 333.324,-744.5 744.5,-744.5 z"
+         id="path3864"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#000000;fill-opacity:0.12234042;stroke:#000000;stroke-width:6.80011892;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 2898.7409,-991.33731 c -411.176,0 -744.5,333.32402 -744.5,744.5 0,411.17599 333.324,744.5 744.5,744.5 411.176,0 744.5,-333.32401 744.5,-744.5 0,-411.17598 -333.324,-744.5 -744.5,-744.5 z m 0,75 c 369.7546,0 669.5,299.74536 669.5,669.5 0,369.75464 -299.7454,669.5 -669.5,669.5 -369.7546,0 -669.5,-299.74536 -669.5,-669.5 0,-369.75464 299.7454,-669.5 669.5,-669.5 z"
+         id="path3866"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(8.3445541,0,0,8.0872336,1259.632,-1438.5897)"
+         d="m 268.57143,147.36218 c 0,37.08198 -32.29945,67.14286 -72.14286,67.14286 -39.8434,0 -72.14286,-30.06088 -72.14286,-67.14286 0,-37.08198 32.29946,-67.142858 72.14286,-67.142858 39.84341,0 72.14286,30.060878 72.14286,67.142858 z"
+         sodipodi:ry="67.14286"
+         sodipodi:rx="72.14286"
+         sodipodi:cy="147.36218"
+         sodipodi:cx="196.42857"
+         id="path3868"
+         style="fill:none;stroke:#000000;stroke-width:0.82777995;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+  </g>
+</svg>
